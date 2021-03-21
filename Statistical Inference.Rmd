@@ -1,8 +1,8 @@
 ---
-  output:
-    html_document:
+    output:
+      html_document:
         toc: true
-        toc_float: true
+        toc_float: false
         toc_depth: 4
         number_sections: false
   
@@ -19,7 +19,7 @@
         keep_md: true
         
     title: "Statistical inference with the GSS data"
-    subtitle: "Indepth hypothesis and confidence interval testing"
+    subtitle: "In-depth hypothesis and confidence interval testing"
     author: "by Peter Hontaru"
 ---
 
