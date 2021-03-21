@@ -18,7 +18,7 @@
         
         keep_md: true
         
-    title: "Statistical inference with the GSS data"
+    title: "Statistical Inference with the GSS data"
     subtitle: "In-depth hypothesis and confidence interval testing"
     author: "by Peter Hontaru"
 ---
@@ -31,17 +31,17 @@ This document is the report from the final course project for the Inferential St
 
 ### Summary:
 
-* Although small, there were significant differences between **genders** on whether **sexual education should be taught in schools**. This is especially important for single parents, or parents of the same sex, where one's stance and actions cannot overcompensate for the other's.
-* We could not prove significant differences in the representation of each **gender** amongst the various **social classes**.
-* There were significant differences in **total family income** based on the **respondent's family income when 16 years old**. This is important as the earned income should be independent of someone's family background. Further measures should be put into place for helping out those in unfavourable groups.
+* Although small, there were significant differences between **genders** on whether **sexual education should be taught in schools**. This is especially important for single parents, or parents of the same sex, where one's stance and actions cannot overcompensate for the other's
+* We could not prove significant differences in the representation of each **gender** amongst the various **social classes**
+* There were significant differences in **total family income** based on the **respondent's family income when 16 years old**. This is important as the earned income should be independent of someone's family background. Further measures should be put into place for helping out those in unfavourable groups
 
 *Note: all of the research questions are focusing on the survey data in the year 2012 to account for year-on-year variances and display the most recent view that our data could provide.*
 
 ### Next steps/recommendations:
 
-* analyse changes within year (ie. were there different representations of each gender in 1980 compared to 2012?)
-* some variables (ie. social class) were subjective and registred based on the respondent's opinion
-* further expand on the analysis by looking at other related factors (ie. if there was a difference between total family income based on the respondent's family income when 16 years old, can we find any further variables that can provide a more indepth view?)
+* analyse changes between years (ie. 1980 vs 2012)
+* some variables (ie. social class) were subjective and registered based on the respondent's opinion (more objective methods should be considered)
+* further expand on the analysis by looking at other related factors (ie. if there was a difference between total family income based on the respondent's family income when 16 years old, can we find any further variables that can provide a more in-depth view as to why?)
 
 ### Dataset
 

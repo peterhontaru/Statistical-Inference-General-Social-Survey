@@ -1,4 +1,4 @@
-Statistical inference with the GSS data
+Statistical Inference with the GSS data
 ================
 by Peter Hontaru
 
@@ -12,13 +12,14 @@ by Peter Hontaru
 
 ### Problem Statement:
 
-This document is the report from the final course project for the
+This document is a report from the final course project for the
 **Inferential Statistics course**, as part of the **Duke University
 Statistics with R course in partnership with Coursera**.
 
 The project consisted of exploring a real-world dataset (a subset of the
-**General Social Survey**) and create a report that included statistical
-inference on a question of interest (ended using three questions).
+**General Social Survey**) in order to create a report that included
+statistical inference on a question of interest (ended up using three
+questions).
 
 ### Summary:
 
@@ -26,14 +27,14 @@ inference on a question of interest (ended using three questions).
     **genders** on whether **sexual education should be taught in
     schools**. This is especially important for single parents, or
     parents of the same sex, where one’s stance and actions cannot
-    overcompensate for the other’s.
+    overcompensate for the other’s
 -   We could not prove significant differences in the representation of
-    each **gender** amongst the various **social classes**.
+    each **gender** amongst the various **social classes**
 -   There were significant differences in **total family income** based
     on the **respondent’s family income when 16 years old**. This is
     important as the earned income should be independent of someone’s
     family background. Further measures should be put into place for
-    helping out those in unfavourable groups.
+    helping out those in unfavourable groups
 
 *Note: all of the research questions are focusing on the survey data in
 the year 2012 to account for year-on-year variances and display the most
@@ -41,14 +42,14 @@ recent view that our data could provide.*
 
 ### Next steps/recommendations:
 
--   analyse changes within year (ie. were there different
-    representations of each gender in 1980 compared to 2012?)
--   some variables (ie. social class) were subjective and registred
-    based on the respondent’s opinion
+-   analyse changes between years (ie. 1980 vs 2012)
+-   some variables (ie. social class) were subjective and registered
+    based on the respondent’s opinion (more objective methods should be
+    considered)
 -   further expand on the analysis by looking at other related factors
     (ie. if there was a difference between total family income based on
     the respondent’s family income when 16 years old, can we find any
-    further variables that can provide a more indepth view?)
+    further variables that can provide a more in-depth view as to why?)
 
 ### Dataset
 
@@ -63,7 +64,7 @@ comparative perspective and develop cross-national models of human
 society; and to make high-quality data easily accessible to scholars,
 students, policy makers, and others, with minimal cost and waiting.
 
-Source: GSS project description
+Source: GSS project description -
 <https://www.norc.org/Research/Projects/Pages/general-social-survey.aspx>
 
 ## Extended analysis
