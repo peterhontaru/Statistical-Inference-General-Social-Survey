@@ -71,10 +71,9 @@ Source: GSS project description -
 
 Full project available:
 
--   at the following
-    [link](http://htmlpreview.github.io/?https://github.com/peterhontaru/Statistical-Inference-General-Social-Survey/blob/main/Statistical-Inference.html),
-    in HTML format
+-   **RECOMMENDED: at the following
+    [link](https://rpubs.com/PeterHontaru/statistical-inference), in
+    HTML format**
 -   in the **Statistical-Inference.md** file of this repo (however, I
     recommend previewing it at the link above since it was originally
     designed as a html document)
--   <http://htmlpreview.github.io/?https://github.com/peterhontaru/Statistical-Inference-General-Social-Survey/blob/main/Statistical-Inference.html>
